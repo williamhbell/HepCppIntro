@@ -1,15 +1,17 @@
-An introduction to Bash
-=======================
+Introduction to C++ for particle physicists
+===========================================
 
-A short introduction to programming in Bash.
-
-Written by W. H. Bell [ http://www.whbell.net/ ]
+A short programming course written by W. H. Bell [ http://www.whbell.net/ ]
 
 Description
 -----------
 
-This is a short programming course that was originally written in 2003.  The aim of the course is to 
-introduce many basic concepts and features of Bash.  This repository contains the course guide and worked 
-examples that are referred to in the course guide.
+The C++ language is introduced through a series of example programs relevant to high energy physicists. 
+The course introduces basic syntax, object orientated programming, the Standard Template Library, 
+interfacing with FORTRAN and high energy packages HepMC, HepPDT, and ROOT. Programming skills and design 
+proccesses are introduced within the discussion of the example programs. The understanding of C++ 
+programming concepts is tested through set problems, for which associated solutions are provided.
+
+This repository contains the course guide, worked examples, problems and associated solutions.
 
 ------------------------------------------------------
