@@ -1,0 +1,55 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}C$++\mskip \thickmuskip $Syntax }{3}
+\contentsline {subsection}{\numberline {2.1}A First Program}{3}
+\contentsline {subsection}{\numberline {2.2}Loops, Conditional Statements and Functions}{4}
+\contentsline {paragraph}{Functions}{4}
+\contentsline {paragraph}{Conditional Statements}{5}
+\contentsline {paragraph}{Loops}{5}
+\contentsline {subsection}{\numberline {2.3}Pointers and Arrays }{6}
+\contentsline {paragraph}{Functions and Pointers}{6}
+\contentsline {paragraph}{Arrays and Pointers}{6}
+\contentsline {subsection}{\numberline {2.4}Basic File Streams}{7}
+\contentsline {subsection}{\numberline {2.5}Problems}{10}
+\contentsline {paragraph}{Reading a Configuration File}{10}
+\contentsline {paragraph}{File Encryption}{10}
+\contentsline {paragraph}{EPS File Extraction}{11}
+\contentsline {section}{\numberline {3}Object Orientated Programming }{12}
+\contentsline {subsection}{\numberline {3.1}Implementing Objects}{12}
+\contentsline {paragraph}{Constructors}{13}
+\contentsline {paragraph}{Member Functions and Data Members}{13}
+\contentsline {paragraph}{Compilation and Header Files}{14}
+\contentsline {subsection}{\numberline {3.2}Object-Object Communication}{14}
+\contentsline {subsection}{\numberline {3.3}Operator Overloading}{15}
+\contentsline {subsection}{\numberline {3.4}Inheritance}{16}
+\contentsline {subsection}{\numberline {3.5}Polymorphism}{16}
+\contentsline {paragraph}{Without Polymorphism}{18}
+\contentsline {paragraph}{With Polymorphism}{18}
+\contentsline {subsection}{\numberline {3.6}Interfaces}{19}
+\contentsline {subsection}{\numberline {3.7}Templates}{20}
+\contentsline {subsection}{\numberline {3.8}Problems}{21}
+\contentsline {paragraph}{Histogramming}{21}
+\contentsline {paragraph}{Extended Array}{21}
+\contentsline {paragraph}{Inheritance}{22}
+\contentsline {paragraph}{Transformation Interface}{22}
+\contentsline {paragraph}{Track Container}{23}
+\contentsline {section}{\numberline {4}The Standard Template Library }{23}
+\contentsline {subsection}{\numberline {4.1}Complex Numbers}{23}
+\contentsline {subsection}{\numberline {4.2}Vectors}{24}
+\contentsline {subsection}{\numberline {4.3}Iterators}{24}
+\contentsline {subsection}{\numberline {4.4}Alogrithms}{25}
+\contentsline {subsection}{\numberline {4.5}Strings}{25}
+\contentsline {subsection}{\numberline {4.6}String Streams}{26}
+\contentsline {subsection}{\numberline {4.7}Stream Formatting}{26}
+\contentsline {subsection}{\numberline {4.8}Problems}{26}
+\contentsline {paragraph}{Algorithms}{26}
+\contentsline {section}{\numberline {5}Particle Physics Applications }{26}
+\contentsline {subsection}{\numberline {5.1}C++ and FORTRAN\nobreakspace {}77}{26}
+\contentsline {subsection}{\numberline {5.2}HepMC}{29}
+\contentsline {paragraph}{$\pi ^0$ decay generator}{29}
+\contentsline {subsection}{\numberline {5.3}ROOT}{30}
+\contentsline {paragraph}{Histograms}{30}
+\contentsline {paragraph}{TNuples}{31}
+\contentsline {paragraph}{TTrees}{31}
+\contentsline {subsection}{\numberline {5.4}Problems}{33}
+\contentsline {paragraph}{Other random number distributions}{33}
+\contentsline {paragraph}{B mesons generated using PYTHIA}{33}
